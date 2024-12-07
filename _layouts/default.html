@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/img/favicon/site.webmanifest">
+
+  {% seo %}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <script src="https://kit.fontawesome.com/a203d2df24.js" crossorigin="anonymous"></script>
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  {% include head-custom.html %}
+</head>
+
+<style>
+* {
+    font-family: "HelveticaNeue", "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 400;
+  }
+
+  header {
+    position: sticky;
+  }
+
+  .button {
+    background-color: #4D4D4E;
+    border-radius: 8px;
+    font-size: 14px;
+    padding: 10px 24px;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    width: 50%;
+    margin: 4px 2px
+  }
+
+  .button:hover {
+    color: white;
+  }
+
+  .button1 {
+    width: auto;
+    background-color: #4D4D4E;
+  }
+  
+  /* orange */
+  .button2 {
+    background-color: #F2A900;
+  }
+  
+  /* green */
+  .button3 {
+    background-color: #85BB65;
+  }
+
+  /* width auto */
+  .button4 {
+    background-color: #FF5733
+  }
+
+  .button5 {
+    background-color: #6AA388;
+  }
+
+  .button6 {
+    background-color: #6E9FCB;
+  }
+
+  /* green */
+  .footer {
+    position: inherit;
+    bottom: 0px;
+  }
+
+  ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    position: sticky;
+    overflow: auto;
+  }
+
+  li a.nav {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    width: 56%;
+  }
+
+  /* Change the link color on hover */
+  .selected,
+  li a.nav:hover {
+    background-color: #555;
+    color: white !important;
+  }
+
+  a:hover {
+    color: #069;
+    font-weight: normal;
+  }
+</style>
+
+<body>
+  <div class="wrapper">
+    <header>
+      {% if site.logo %}
+      <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
+      {% endif %}
+
+      <h3><br />{{ site.description | default: site.github.project_tagline }}</h3>
+
+      <p>
+        🗓️ October 23rd - 26th, 2024</br>
+        </br>
+        🌎 <a href="https://studentcenter.gatech.edu/exhibition-hall">Georgia Tech Exhibition Hall</a> </br>
+        🇺🇸 Atlanta, Georgia, USA</br>
+      </p>
+
+      <p>
+        🛏️ <a href="/hotel">Book your hotel</a>
+        <br>
+      </p>
+
+      <p>
+        🗣️ <a href="/schedule">Submit a Talk</a> 
+      </p>
+      
+      <p>
+        🎟️ Buy your ticket below<br>
+      </p>
+
+      <a target="_blank" href="https://checkout.opennode.com/p/3dbad724-90f5-4616-93bc-a9907d5dd831"
+        class="button button4">TABConf 7 (BTC)</a>
+      <a target="_blank" href="https://buy.stripe.com/eVa9Cf3UTfaXcE06ox" class="button button3">TABConf 7 (Fiat)</a>
+      <br>
+
+      <ul class="nav">
+        <li><a class="nav" target="_blank" href="https://studentcenter.gatech.edu/parking-information" id="nav-parking">Venue Parking</a></li>
+        <li><a class="nav" href="/sponsors" id="nav-sponsors">Sponsors</a></li>
+        <li><a class="nav" href="/schedule" id="nav-schedule">Schedule</a></li>
+        <li><a class="nav" href="/faq" id="nav-faq">FAQ's</a></li>
+        <li><a class="nav" href="/hotel" id="nav-hotel">Hotel</a></li>
+        <li><a class="nav" href="/builderdays" id="nav-builderdays">Builder Days</a></li> 
+        <li><a class="nav" href="/ctb" id="nav-ctb">Capture the Bitcoin</a></li>
+        <li><a class="nav" href="/hackathon" id="nav-ctb">Hackathon</a></li>
+        <li><a class="nav" target="_blank" href="https://forms.gle/5EUtbmfKiHFpWykg6" id="nav-volunteers">Volunteers</a></li>
+        <li><a class="nav" href="/grants" id="nav-grants">Grants</a></li>
+      </ul>
+      <br>
+      <p>
+        <a target="_blank" href="https://github.com/TABConf/6.tabconf.com"><i class="fa fa-github" style="font-size:28px"></i></a>
+        <a target="_blank" href="https://twitter.com/tabconf"><i class="fa fa-twitter" style="font-size:28px"></i></a>
+        <a target="_blank" href="https://t.me/tabconf"><i class="fa fa-telegram" style="font-size:28px"></i></a>
+      </p>
+    </header>
+
+    <section>
+      {{ content }}
+    </section>
+
+  </div>
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/index.js" | relative_url }}"></script>
+</body>
+
+</html>
