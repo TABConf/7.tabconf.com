@@ -1,9 +1,18 @@
 A Technical Bitcoin Conference
-[Checkout the website for more info](https://6.tabconf.com/)
+[Checkout the website for more info](https://tabconf.com/)
 
 ----
 
 TABConf - The Atlanta Bitcoin Conference — an event for building communities, providing education, and supporting developers. We like to think of this as the most inclusive, organic, grassroots event possible for Bitcoin.
+
+TABConf
+- Technical
+- Accessible
+- Bitcoin
+- Community
+- Open source
+- Novel
+- Fun
 
 # What can I expect at TABConf?
 
@@ -14,4 +23,4 @@ TABConf - The Atlanta Bitcoin Conference — an event for building communities, 
 - Capture the Bitcoin: This conference-wide scavenger hunt will test your knowledge of Bitcoin as you compete to be the first to steal real Bitcoin!
 - Chess Tournament: Chess tournament. 100k sats buy-in, winner, take all! 
 
-<a><img src="assets/img/nogood/NoGood_TABConf6_4096.png"></a>
+<a><img src="assets/img/nogood/512x512/NG_Stickers_BuildingBuilders_Color.png"></a>
