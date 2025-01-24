@@ -4,19 +4,17 @@ layout: default
 
 # Hotel
 
-TAB Conf 6 will be hosted at a
-<a href="https://goo.gl/maps/rJwA9B33xdd7YrSF8/" target="_blank">Georgia Tech Exhibition Hall</a> in 2024. We have a room block reserved for **October 22, 2024 through October 27, 2024** at the below listed hotels. Click one of the links below to book your room in our block.
+TAB Conf 7 will be hosted at a
+<a href="https://goo.gl/maps/rJwA9B33xdd7YrSF8/" target="_blank">Georgia Tech Exhibition Hall</a> in 2025. 
 
-- <a href="https://www.hilton.com/en/attend-my-event/atlgthx-90b-7b98158b-e6b4-4d99-89fc-33bb8a5c65eb/" target="_blank">Hampton Inn, Atlanta-Georgia Tech-Downtown</a>
+<!-- We have a room block reserved for **October 22, 2024 through October 27, 2024** at the below listed hotels. Click one of the links below to book your room in our block. -->
+
+- Hampton Inn, Atlanta-Georgia Tech-Downtown
     - 0.5 mi
-    - $169/night (promo)
-- <a href="https://group.hiltongardeninn.com/1htnul" target="_blank">Hilton Garden Inn, Atlanta Midtown</a>
+- Hilton Garden Inn, Atlanta Midtown
     - 1.3 miles
-    - $169/night (promo)
-- <a href="https://group.homewood-suites.com/p4vg1p" target="_blank">Homewood Suites by Hilton, Atlanta Midtown</a>
+- Homewood Suites by Hilton, Atlanta Midtown
     - 1.3 miles
-    - $155/night (promo)
-
 
 Want to stay somewhere else? No problem. Checkout the list below for several other hotels within 2 mi of the new venue.
 
