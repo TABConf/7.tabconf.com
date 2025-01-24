@@ -1,7 +1,7 @@
 ---
-name: 'Issue: Builder Day Project Submission '
+name: 'Builder Day Project Submission'
 about: Submit your Builder Day Project for TABConf!
-title: 'Builder Days Project <<projectname>> '
+title: 'Builder Days Project <<projectname>>'
 labels: Builder Days Project
 assignees: ''
 
