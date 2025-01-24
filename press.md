@@ -5,10 +5,19 @@ layout: default
 # TABConf in the press: 
 
 You can contact the core orgs be emailing hello@tabconf.com <br>
-[Download TABConf assets from here](https://github.com/TABConf/6.tabconf.com/tree/main/assets/img)<br>
+[Download TABConf assets from here](https://github.com/TABConf/7.tabconf.com/tree/main/assets/img)<br>
 
 
 <img align="center" width="400" src="assets/img/nogood/512x512/NG_TABConf_Numpad_Color.png">
+
+## 2024 Coverage
+Articles:
+- [https://lclhost.org/blog/tabconf-6/](https://lclhost.org/blog/tabconf-6/)
+- [https://stacker.news/items/743600](https://stacker.news/items/743600)
+- [https://laughing-sunfish.pikapod.net/were-celebrating-tabconf-6-with-new-bitcoin-themed-covers/](https://laughing-sunfish.pikapod.net/were-celebrating-tabconf-6-with-new-bitcoin-themed-covers/)
+
+Links
+- [https://tabconf.zbd.gg/](https://tabconf.zbd.gg/)
 
 ## 2023 Coverage
 
