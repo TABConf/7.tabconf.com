@@ -7,7 +7,7 @@ Don't want to give a talk? No problem! You can also suggest a solo talk, panel d
 
 Github issues will be reviewed and approved on a rolling basis. Once approved, the TAB Conf team will assign it a time slot on our Github project board. The Github project board is the conference schedule. Click below to check it out and watch us building this year's schedule in real time.
 
-<a target="_blank" href="https://github.com/orgs/TABConf/projects/7" class="button button1 button4">Github Project Board</a>
+<a target="_blank" href="https://github.com/orgs/TABConf/projects/9" class="button button1 button4">Github Project Board</a>
 
 ## Solo Talk
 
