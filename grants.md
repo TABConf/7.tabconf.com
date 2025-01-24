@@ -15,7 +15,7 @@ If you could like to apply for a TABConf Grant, please fill out the application 
 
 *** 
 
-<a target="_blank" href="https://forms.gle/XfZUXdRwKDwH3nis5">TABConf 6 Grant Program Application</a>
+<!-- <a target="_blank" href="https://forms.gle/XfZUXdRwKDwH3nis5">TABConf 6 Grant Program Application</a> -->
 
 ***
 
