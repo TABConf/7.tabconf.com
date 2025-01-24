@@ -8,7 +8,7 @@ Builder Days is our version of a laid back co working and a hackathon. Its purpo
 
 If you want to run a table for your FOSS Bitcoin project during Builder Days, click below to open a GitHub issue!
 
-<a target="_blank" href="https://github.com/TABConf/6.tabconf.com/issues/new?assignees=&labels=Builder+Days+Project&projects=&template=builder-day-project-submission.md&title=" class="button button1 button4 ">Submit Builder Days Project</a>
+<a target="_blank" href="https://github.com/TABConf/7.tabconf.com/issues/new?template=workshop-submission.md" class="button button1 button4 ">Submit Builder Days Project</a>
 
 ## Attendees can expect to learn a lot
 
