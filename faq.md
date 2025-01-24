@@ -1,19 +1,19 @@
 # Frequently Asked Questions
 
-### When is TABConf 2024?
-- October 23rd - 26th, 2024
+### When is TABConf 7?
+- October 13th - 16th 2025
 
 *** 
 
 ### Where is TABConf 6?
  
-GT
+GT Exhibition Hall
 
 *** 
 
 ### Where do I stay?
  
-Hampton 
+Look at [Hotel](https://7.tabconf.com/hotel)
 
 *** 
 
@@ -26,8 +26,8 @@ Hampton
 
 ### How can I apply to speak or give a workshop at TABConf 6?
  
-- You can open a [Github issue here](https://github.com/TABConf/6.tabconf.com/issues) to apply for a speaker or workshop slot.
-- If your submission is selected for one of the villages or mainstage, it will be added to the [TABConf 6 Schedule](https://github.com/orgs/TABConf/projects/4)
+- You can open a [Github issue here](https://github.com/TABConf/7.tabconf.com/issues) to apply for a speaker or workshop slot.
+- If your submission is selected for one of the villages or mainstage, it will be added to the [TABConf 7 Schedule](https://github.com/orgs/TABConf/projects/9)
 
 *** 
 
@@ -39,8 +39,8 @@ Hampton
 
 *** 
 
-### What is TABConf 6 refund policy ticket cost?
+### What is TABConf 7 refund policy ticket cost?
 
-The tickets for TABConf 6 are <u>nonrefundable</u>. You can transfer your ticket to someone else if you cannot attend by emailing hello@tabconf.com and CCing the person you are transferring it to.
+The tickets for TABConf 7 are <u>nonrefundable</u>. You can transfer your ticket to someone else if you cannot attend by emailing hello@tabconf.com and CCing the person you are transferring it to.
 
 *** 
