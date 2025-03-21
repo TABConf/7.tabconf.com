@@ -4,7 +4,6 @@
 - Branding on the Main stage and throughout the conference hall.
 - Sponsor table.
 - Branding at Builder Days.
-- Private/ Public Breakout room.
 - Logo on website (sponsors page).
 - Logo on Stage.
 - 10 Sponsor Tickets.
@@ -24,7 +23,6 @@
 - Branding at After Party
 - Logo on website (sponsors page)
 - 8 Sponsor Tickets
-- Sponsor table
 
 ## Badge Sponsor - $15k (1/1 Left)
 - Logo on wristband
