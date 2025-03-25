@@ -32,4 +32,4 @@ Workshops are interactive sessions where participants actively engage in learnin
 
 Builder day projects are collaborative events where participants work together to build or prototype new tools, solutions, or products, emphasizing teamwork and practical application of skills.
 
-<a target="_blank" href="https://github.com/TABConf/7.tabconf.com/issues/new?template=issue--builder-day-project-submission-.md" class="button button1 ">Builder Day Project</a>
+<a target="_blank" href="https://github.com/TABConf/7.tabconf.com/issues/new?template=builder-day-project-submission-.md" class="button button1 ">Builder Day Project</a>
