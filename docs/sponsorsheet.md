@@ -29,11 +29,11 @@
 - Logo on website (sponsors page)
 - 6 Sponsor Tickets
 
-## Grant Sponsor - $10k (2/2 left)
-The funds from these sponsors are granted to individuals to help pay for travel expenses to attend the conference.
-Please see our Grants page for more information on the TABConf Developer Grant Program.
-- Logo on website (sponsors page)
-- 4 Sponsor Tickets
+~~## Grant Sponsor - $10k (2/2 left)~~
+~~The funds from these sponsors are granted to individuals to help pay for travel expenses to attend the conference.
+Please see our Grants page for more information on the TABConf Developer Grant Program.~~
+~~- Logo on website (sponsors page)~~
+~~- 4 Sponsor Tickets~~
 
 ## Lunch Sponsor - $10k (2/2 left)
 - Logo on website (sponsors page).
@@ -44,7 +44,7 @@ Please see our Grants page for more information on the TABConf Developer Grant P
 - Logo on website (sponsor & CTB pages).
 - 4 Sponsor Tickets.
 
-## Coffee/ Water Sponsor - $5k (4/4 left)
+## Coffee/ Water Sponsor - $5k (3/4 left)
 - Countless TABConf attendees forever being in your debt.
 - Logo on website (sponsors page).
 - 4 Sponsor Tickets.
