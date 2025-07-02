@@ -23,3 +23,11 @@ Open payments for the Internet. Enterprise-grade, fast, secure payments on Light
 America’s Bitcoin Miner®. CleanSpark responsibly develops infrastructure for Bitcoin, an essential tool for financial independence and inclusion.
 
 ***
+
+## Coffee/ Water Sponsor [🐦](https://x.com/MarathonDH) [🌐](https://www.mara.com/)
+
+<a href="https://www.cleanspark.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/mara-logo.png"></a>
+<br/>
+Marathon Digital Holdings is building one of the largest bitcoin mining operations in North America.
+
+***
