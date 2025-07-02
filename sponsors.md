@@ -8,6 +8,14 @@ Want to help us make the event possible? Get in front of the Bitcoin developer c
 
 <a target="_blank" href="/docs/sponsorsheet" class="button button1 button5">Sponsorsheet</a>
 
+## HRF Bitcoin Development Fund - TABConf 7 Grant Sponsor [🐦](https://twitter.com/HRF) [🌐](https://hrf.org/devfund)
+
+<a href="https://hrf.org/devfund"><img align="center" width="400" src="assets/img/sponsors/910x512/hrf-logo.png"></a>
+<br/>
+The HRF Bitcoin Development Fund supports software developers who are making the Bitcoin network more private, decentralized, and resilient so that it can better serve as a financial tool for human rights activists, civil society organizations, and journalists around the world.
+
+***
+
 ## General Sponsor [🐦](https://twitter.com/lightspark) [🌐](https://www.lightspark.com/)
 
 <a href="https://www.lightspark.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/lightspark-logo.png"></a>
