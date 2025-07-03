@@ -5,7 +5,7 @@
 
 *** 
 
-### Where is TABConf 6?
+### Where is TABConf 7?
  
 GT Exhibition Hall
 
