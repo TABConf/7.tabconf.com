@@ -19,15 +19,13 @@ Look at [Hotel](https://7.tabconf.com/hotel)
 
 ### Is TABConf for me?
  
-- If you are interested in learning more about Bitcoin and its inner workings, then yes, TABConf is for you. 
-- TABConf is more technical, but there is space for everyone to learn from each other.
+- If you are interested in learning more about Bitcoin and its inner workings, then yes, TABConf is for you. TABConf is more technical, but there is space for everyone to learn from each other.
 
 *** 
 
-### How can I apply to speak or give a workshop at TABConf 6?
+### How can I apply to speak or give a workshop at TABConf 7?
  
-- You can open a [Github issue here](https://github.com/TABConf/7.tabconf.com/issues) to apply for a speaker or workshop slot.
-- If your submission is selected for one of the villages or mainstage, it will be added to the [TABConf 7 Schedule](https://github.com/orgs/TABConf/projects/9)
+- You can open a [Github issue here](https://github.com/TABConf/7.tabconf.com/issues) to apply for a speaker or workshop slot. If your submission is selected for one of the villages or mainstage, it will be added to the [TABConf 7 Schedule](https://github.com/orgs/TABConf/projects/9)
 
 *** 
 
@@ -41,6 +39,6 @@ Look at [Hotel](https://7.tabconf.com/hotel)
 
 ### What is TABConf 7 refund policy ticket cost?
 
-The tickets for TABConf 7 are <u>nonrefundable</u>. You can transfer your ticket to someone else if you cannot attend by emailing hello@tabconf.com and CCing the person you are transferring it to.
+The tickets for TABConf 7 are <u>non-refundable</u>. You can transfer your ticket to someone else if you cannot attend by emailing hello@tabconf.com and CCing the person you are transferring it to.
 
 *** 
