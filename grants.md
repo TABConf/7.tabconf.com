@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TABConf Grant Program
+# TABConf 7 Grant Program - Sponsored by HRF!
 
 The TABConf grant program aims to facilitate the exchange of knowledge and foster collaboration among members of the Bitcoin community by offering financial assistance to individuals to cover expenses associated with attending the conference. This program is designed to support individuals who may require financial aid to participate in TABConf, such as ticket fees, travel expenses and accommodation costs. By providing financial support, the TABConf grant program promotes inclusivity and accessibility, enabling individuals from diverse backgrounds to attend the conference and actively engage in the Bitcoin community. This encourages the sharing of ideas, insights, and expertise, fostering a collaborative environment where individuals can network, learn from each other, and collectively advance Bitcoin.
 
@@ -13,12 +13,14 @@ Grants can be the following:
 
 If you could like to apply for a TABConf Grant, please fill out the application below. 
 
-*** 
-
-<!-- <a target="_blank" href="https://forms.gle/XfZUXdRwKDwH3nis5">TABConf 6 Grant Program Application</a> -->
+<a target="_blank" href="https://forms.gle/4QoTqaNNVPWpZimn9">TABConf 7 Grant Program Application</a>
 
 ***
 
-## Grant Sponsors
+## HRF Bitcoin Development Fund - TABConf 7 Grant Sponsor [🐦](https://twitter.com/HRF) [🌐](https://hrf.org/devfund)
 
-Want to help us make the event possible? Get in front of the Bitcoin developer community! Reach out to <hello@tabconf.com>. You can find information on our [Sponsorsheet](./docs/sponsorsheet.md)
+<a href="https://hrf.org/devfund"><img align="center" width="400" src="assets/img/sponsors/910x512/hrf-logo.png"></a>
+<br/>
+The HRF Bitcoin Development Fund supports software developers who are making the Bitcoin network more private, decentralized, and resilient so that it can better serve as a financial tool for human rights activists, civil society organizations, and journalists around the world.
+
+***
