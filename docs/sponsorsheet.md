@@ -44,7 +44,7 @@ Please see our Grants page for more information on the TABConf Developer Grant P
 - Logo on website (sponsor & CTB pages).
 - 4 Sponsor Tickets.
 
-## Coffee/ Water Sponsor - $5k (3/4 left)
+## Coffee/ Water Sponsor - $5k (2/4 left)
 - Countless TABConf attendees forever being in your debt.
 - Logo on website (sponsors page).
 - 4 Sponsor Tickets.
