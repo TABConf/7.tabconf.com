@@ -39,3 +39,19 @@ America’s Bitcoin Miner®. CleanSpark responsibly develops infrastructure for 
 Marathon Digital Holdings is building one of the largest bitcoin mining operations in North America.
 
 ***
+
+## General Sponsor [🐦](https://twitter.com/unchainedcom) [🌐](https://unchained.com/)
+
+<a href="https://unchained.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/Unchained-logo.png"></a>
+<br/>
+Secure your bitcoin with confidence. Unchained Protects your bitcoin with cold storage that you control and get access to trading, inheritance, loans, and IRAs—all backed by the best support in the industry.
+
+***
+
+## General Sponsor [🐦](https://x.com/FulgurVentures) [🌐](https://fulgur.ventures/)
+
+<a href="https://fulgur.ventures/"><img align="center" width="400" src="assets/img/sponsors/910x512/fulgur-ventures-logo.png"></a>
+<br/>
+Fulgur Ventures invests in early stage startups focused on Bitcoin and the Lightning Network
+
+***
