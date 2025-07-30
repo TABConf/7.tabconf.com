@@ -55,3 +55,11 @@ Secure your bitcoin with confidence. Unchained Protects your bitcoin with cold s
 Fulgur Ventures invests in early stage startups focused on Bitcoin and the Lightning Network
 
 ***
+
+## General Sponsor [🐦](https://twitter.com/spiralbtc) [🌐](https://spiral.xyz/)
+
+<a href="https://spiral.xyz/"><img align="center" width="400" src="assets/img/sponsors/910x512/Spiral-logo.png"></a>
+<br/>
+Spiral builds and funds free, open-source projects aimed at making bitcoin the planet’s preferred currency.
+
+***
