@@ -13,19 +13,19 @@ Click one of the links below to book your room in our block.
 
 ## Conference Hotels
 
-- <a href="https://group.hiltongardeninn.com/5ev2ty" target="_blank">Hilton Garden Inn, Atlanta Midtown<sup>1</sup></a>
+- <a href="https://group.hiltongardeninn.com/5ev2ty" target="_blank">Hilton Garden Inn, Atlanta Midtown</a>
     - 1.3 miles
     - $159 per night (promo)
-    - <u>**_NOTE_**</u>: The link will autofill October 13 to October 16. Group rate <u>**_WILL_**</u> apply if you manually edit your stay to be October 12th to 17th.
-- <a href="https://group.homewood-suites.com/p5qm4a" target="_blank">Homewood Suites by Hilton, Atlanta Midtown<sup>2</sup></a>
+    - <u>**NOTE**</u>: The link will autofill October 13 to October 16. Group rate <u>**WILL**</u> apply if you manually edit your stay to be October 12th to 17th.
+- <a href="https://group.homewood-suites.com/p5qm4a" target="_blank">Homewood Suites by Hilton, Atlanta Midtown</a>
     - 1.3 miles
     - $175 per night (promo)
-    - <u>**_NOTE_**</u>: The link will autofill October 13 to October 16. Group rate <u>**_WILL NOT_**</u> apply if you edit your stay to be October 12th to 17th due to Hotel restrictions.
+    - <u>**NOTE**</u>: The link will autofill October 13 to October 16. Group rate <u>**WILL NOT**</u> apply if you edit your stay to be October 12th to 17th due to Hotel restrictions.
 
 ## Nearby Hotels
 
 Want to stay somewhere else? No problem! Check out the below list of hotels for nearby options. Keep in mind, we
-<u>**_DO NOT_**</u> have a room block discount with these hotels, but they are all within 2 miles of the venue.
+<u>**DO NOT**</u> have a room block discount with these hotels, but they are all within 2 miles of the venue.
 
 ### 5 ⭐️ Hotels
 
