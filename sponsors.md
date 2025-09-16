@@ -32,11 +32,11 @@ America’s Bitcoin Miner®. CleanSpark responsibly develops infrastructure for 
 
 ***
 
-## Coffee/ Water Sponsor [🐦](https://x.com/MarathonDH) [🌐](https://www.mara.com/)
+## Coffee/ Water Sponsor [🐦](https://x.com/andurobtc) [🌐](https://www.anduro.io/)
 
-<a href="https://www.cleanspark.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/mara-logo.png"></a>
+<a href="https://www.anduro.io/"><img align="center" width="400" src="assets/img/sponsors/910x512/Anduro-logo.png"></a>
 <br/>
-Marathon Digital Holdings is building one of the largest bitcoin mining operations in North America.
+Anduro is a multi-sidechain platform dedicated to Bitcoin quantum-resistance.
 
 ***
 
