@@ -28,4 +28,4 @@ Read about our [history](./history.md) at TABConf.
 
 *** 
 
-<!--- <a><img src="assets/img/nogood/NoGood_TABConf6_HR_web.png"></a> -->
+<a><img src="assets/img/nogood/TABConf7_LowRes.jpg"></a>
