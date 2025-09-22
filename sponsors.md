@@ -63,3 +63,11 @@ Fulgur Ventures invests in early stage startups focused on Bitcoin and the Light
 Spiral builds and funds free, open-source projects aimed at making bitcoin the planet’s preferred currency.
 
 ***
+
+## General Sponsor [🌐](https://www.bitcointutorials.org/)
+
+<a href="https://spiral.xyz/"><img align="center" width="400" src="assets/img/sponsors/910x512/bitcoin-tutorials-logo.png"></a>
+<br/>
+Bitcointutorials.org is a community-driven library of video tutorials designed to help people learn how to use bitcoin tools effectively and securely.
+
+***
