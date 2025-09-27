@@ -40,6 +40,14 @@ Anduro is a multi-sidechain platform dedicated to Bitcoin quantum-resistance.
 
 ***
 
+## General Sponsor [🐦](https://x.com/fedibtc) [🌐](https://www.fedi.xyz)
+
+<a href="https://www.fedi.xyz"><img align="center" width="400" src="assets/img/sponsors/910x512/fedi-logo.png"></a>
+<br/>
+Fedi builds global Bitcoin adoption technology. Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively.
+
+***
+
 ## General Sponsor [🐦](https://twitter.com/unchainedcom) [🌐](https://unchained.com/)
 
 <a href="https://unchained.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/Unchained-logo.png"></a>
@@ -66,7 +74,7 @@ Spiral builds and funds free, open-source projects aimed at making bitcoin the p
 
 ## General Sponsor [🌐](https://www.bitcointutorials.org/)
 
-<a href="https://spiral.xyz/"><img align="center" width="400" src="assets/img/sponsors/910x512/bitcoin-tutorials-logo.png"></a>
+<a href="https://www.bitcointutorials.org/"><img align="center" width="400" src="assets/img/sponsors/910x512/bitcoin-tutorials-logo.png"></a>
 <br/>
 Bitcointutorials.org is a community-driven library of video tutorials designed to help people learn how to use bitcoin tools effectively and securely.
 
