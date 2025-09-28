@@ -40,7 +40,7 @@ Anduro is a multi-sidechain platform dedicated to Bitcoin quantum-resistance.
 
 ***
 
-## General Sponsor [🐦](https://x.com/fedibtc) [🌐](https://www.fedi.xyz)
+## Capture the Bitcoin Sponsor [🐦](https://x.com/fedibtc) [🌐](https://www.fedi.xyz)
 
 <a href="https://www.fedi.xyz"><img align="center" width="400" src="assets/img/sponsors/910x512/fedi-logo.png"></a>
 <br/>
