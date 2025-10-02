@@ -72,6 +72,14 @@ Spiral builds and funds free, open-source projects aimed at making bitcoin the p
 
 ***
 
+## General Sponsor [🐦](https://twitter.com/SetDevBTC) [🌐](https://www.setdev.com/)
+
+<a href="https://www.setdev.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/setdev-logo.png"></a>
+<br/>
+setdev is the premier Bitcoin engineering firm. they help teams design, develop & ship secure software in the Bitcoin ecosystem.
+
+***
+
 ## General Sponsor [🌐](https://www.bitcointutorials.org/)
 
 <a href="https://www.bitcointutorials.org/"><img align="center" width="400" src="assets/img/sponsors/910x512/bitcoin-tutorials-logo.png"></a>
@@ -79,3 +87,4 @@ Spiral builds and funds free, open-source projects aimed at making bitcoin the p
 Bitcointutorials.org is a community-driven library of video tutorials designed to help people learn how to use bitcoin tools effectively and securely.
 
 ***
+
