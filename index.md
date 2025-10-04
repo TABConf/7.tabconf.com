@@ -8,7 +8,7 @@ layout: default
 
 <a target="_blank" href="https://checkout.opennode.com/p/3dbad724-90f5-4616-93bc-a9907d5dd831" class="button button1 button4">TABConf 7 Tickets (Pay with BTC)</a>
 
-<a target="_blank" href="https://buy.stripe.com/eVa9Cf3UTfaXcE06ox" class="button button1 button3">TABConf 7 Tickets (Pay with Fiat)</a>
+<a target="_blank" href="https://buy.stripe.com/eVq8wPapS3hGaSzg2mdQQ0a" class="button button1 button3">TABConf 7 Tickets (Pay with Fiat)</a>
 
 ***
 
