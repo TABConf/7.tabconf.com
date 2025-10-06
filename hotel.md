@@ -5,27 +5,19 @@ layout: default
 # Hotel
 
 TAB Conf 7 will be hosted again at the
-<a href="https://goo.gl/maps/rJwA9B33xdd7YrSF8/" target="_blank">Georgia Tech Exhibition Hall</a>. We have a room block reserved for
-October 12 through October 17, 2025 at Hilton Garden Inn, Atlanta Midtown and October 13 through October 16, 2020 at Homewood Suites
-by Hilton, Atlanta Midtown.
+<a href="https://goo.gl/maps/rJwA9B33xdd7YrSF8/" target="_blank">Georgia Tech Exhibition Hall</a>.
 
-Click one of the links below to book your room in our block.
+Unfortunately, our room block with discounted nightly rates has officially <u>EXPIRED</u>.
+Below is a list of hotels located within 2 miles of the venue.
 
-## Conference Hotels
+### Closest Hotels
 
-- <a href="https://group.hiltongardeninn.com/5ev2ty" target="_blank">Hilton Garden Inn, Atlanta Midtown</a>
-    - 1.3 miles
-    - $159 per night (promo)
-    - <u><b>NOTE</b></u>: The link will autofill October 13 to October 16. Group rate <u><b>WILL</b></u> apply if you manually edit your stay to be October 12th to 17th.
-- <a href="https://group.homewood-suites.com/p5qm4a" target="_blank">Homewood Suites by Hilton, Atlanta Midtown</a>
-    - 1.3 miles
-    - $175 per night (promo)
-    - <u><b>NOTE</b></u>: The link will autofill October 13 to October 16. Group rate <u><b>WILL NOT</b></u> apply if you edit your stay to be October 12th to 17th due to Hotel restrictions.
-
-## Nearby Hotels
-
-Want to stay somewhere else? No problem! Check out the below list of hotels for nearby options. Keep in mind, we
-<u><b>DO NOT</b></u> have a room block discount with these hotels, but they are all within 2 miles of the venue.
+- <a href="https://group.hiltongardeninn.com/5ev2ty" target="_blank">
+      Hilton Garden Inn, Atlanta Midtown
+  </a> 1.3 miles
+- <a href="https://group.homewood-suites.com/p5qm4a" target="_blank">
+      Homewood Suites by Hilton, Atlanta Midtown
+  </a> 1.3 miles
 
 ### 5 ⭐️ Hotels
 
