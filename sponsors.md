@@ -50,9 +50,9 @@ Fedi builds global Bitcoin adoption technology. Billions of people are unable to
 
 ## Capture the Bitcoin Sponsor [🐦](https://x.com/jintekc) [🌐](https://jintek.consulting/)
 
-<a href="jintek-logo.png"><img align="center" width="400" src="assets/img/sponsors/910x512/jintek-logo.png"></a>
+<a href="https://jintek.consulting/"><img align="center" width="400" src="assets/img/sponsors/910x512/jintek-logo.png"></a>
 <br/>
-Developing innovative software solutions designed to decentralize the future.
+Jintek develops innovative software solutions designed to decentralize the future.
 
 ***
 
