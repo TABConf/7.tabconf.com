@@ -16,6 +16,14 @@ The HRF Bitcoin Development Fund supports software developers who are making the
 
 ***
 
+## Lunch Sponsor [🐦](https://github.com/dcdpr/) [🌐](https://contract.design/)
+
+<a href="https://contract.design/"><img align="center" width="400" src="assets/img/sponsors/910x512/dcd-logo.png"></a>
+<br/>
+Digital Contract Design - DCD creates libraries for implementing Self-Sovereign Identity on the Bitcoin blockchain, they also sponsor work with Blockchain Commons and are supporting the implementation of BIP157 and BIP158 in libbitcoin.
+
+***
+
 ## General Sponsor [🐦](https://twitter.com/lightspark) [🌐](https://www.lightspark.com/)
 
 <a href="https://www.lightspark.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/lightspark-logo.png"></a>
