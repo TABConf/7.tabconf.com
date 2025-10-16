@@ -6,9 +6,7 @@ layout: default
 
 #### TABConf's mission is to create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin.
 
-<a target="_blank" href="https://checkout.opennode.com/p/3dbad724-90f5-4616-93bc-a9907d5dd831" class="button button1 button4">TABConf 7 Tickets (Pay with BTC)</a>
-
-<a target="_blank" href="https://buy.stripe.com/eVq8wPapS3hGaSzg2mdQQ0a" class="button button1 button3">TABConf 7 Tickets (Pay with Fiat)</a>
+<a target="_blank" href="https://checkout.opennode.com/p/7d51f71f-f3e6-4159-bbfa-3a231d14e5b8" class="button button1 button4">TABConf 8 Tickets (Pay with BTC)</a>
 
 ***
 
